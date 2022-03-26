@@ -14,7 +14,7 @@ namespace DesktopNotifications
     {
         public override string Name => "DesktopNotifications";
         public override string Author => "badhaloninja";
-        public override string Version => "1.0.0";
+        public override string Version => "1.0.1";
         public override string Link => "https://github.com/badhaloninja/DesktopNotifications";
 
 
