@@ -126,7 +126,6 @@ namespace DesktopNotifications
 
                 if (end != -1)
                 {
-                    Msg("REMOVING RANGE");
                     code.RemoveAt(end);
                 }
                 /* Debug
